@@ -8,7 +8,7 @@
             /*
              Ejercicio: Juego de Laberinto
 
-             Crea un juego de laberinto en C# que permita a un jugador moverse a través de un
+             Crear un juego de laberinto en C# que permita a un jugador moverse a través de un
              laberinto en busca de una salida. El laberinto estará representado por una
              matriz bidimensional donde algunos elementos representarán obstáculos (paredes) y
              otros elementos representarán pasillos por los que el jugador puede moverse.
@@ -35,11 +35,8 @@
              Cuando el jugador llega a la salida (elemento 3 en la matriz), se muestra un mensaje 
              de victoria y el juego termina.
 
-             Debes mostrar visualmente el estado del laberinto en la consola y actualizarlo en 
+             Se debe mostrar visualmente el estado del laberinto en la consola y actualizarlo en 
              tiempo real para reflejar la posición actual del jugador.
-
-             Puedes implementar una clase Laberinto que contenga la matriz, las coordenadas del
-             jugador y métodos para mover al jugador y verificar si ha ganado.
              */
 
 
