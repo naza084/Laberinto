@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\bin\Debug\net7.0\Laberinto.exe
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\bin\Debug\net7.0\Laberinto.deps.json
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\bin\Debug\net7.0\Laberinto.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\bin\Debug\net7.0\Laberinto.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\bin\Debug\net7.0\Laberinto.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\refint\Laberinto.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\Laberinto.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Matrices\Laberinto\Laberinto\obj\Debug\net7.0\ref\Laberinto.dll
